@@ -1,5 +1,6 @@
 body {
-    color:rgb(163, 57, 57);
+    color:rgb(57, 163, 128);
     text-shadow: 12px;
-    background-color: azure;
+    background-color: rgb(125, 197, 197);
+    text-decoration: solid;
     }
